@@ -7,15 +7,18 @@ Console.WriteLine("Введите 2-е число");
 b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите 3-е число");
 c = Convert.ToInt32(Console.ReadLine());
-if ((a>b) && (a>c));
+if ((a>b) && (a>c))
 {
-    Console.WriteLine("наибольшее число = ",a);
+    Console.WriteLine("наибольшее число");
+    Console.Write(a);
 }
-else if ((b>a) && (b>c));
+else if ((b>a) && (b>c))
 {
-    Console.WriteLine("наибольшее число = ",b);
+    Console.WriteLine("наибольшее число");
+    Console.Write(b);
 }
-else if ((c>a) && (c>b));
+else if ((c>a) && (c>b))
 {
-    Console.WriteLine("наибольшее число = ",c);
+    Console.WriteLine("наибольшее число");
+    Console.Write(c);
 }
