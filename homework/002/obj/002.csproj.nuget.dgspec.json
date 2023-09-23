@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\geek_brains\\c#\\homework\\001\\001.csproj": {}
+    "D:\\geek_brains\\c#\\homework\\002\\002.csproj": {}
   },
   "projects": {
-    "d:\\geek_brains\\c#\\homework\\001\\001.csproj": {
+    "D:\\geek_brains\\c#\\homework\\002\\002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\geek_brains\\c#\\homework\\001\\001.csproj",
-        "projectName": "001",
-        "projectPath": "d:\\geek_brains\\c#\\homework\\001\\001.csproj",
+        "projectUniqueName": "D:\\geek_brains\\c#\\homework\\002\\002.csproj",
+        "projectName": "002",
+        "projectPath": "D:\\geek_brains\\c#\\homework\\002\\002.csproj",
         "packagesPath": "C:\\Users\\shari\\.nuget\\packages\\",
-        "outputPath": "d:\\geek_brains\\c#\\homework\\001\\obj\\",
+        "outputPath": "D:\\geek_brains\\c#\\homework\\002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shari\\AppData\\Roaming\\NuGet\\NuGet.Config"
